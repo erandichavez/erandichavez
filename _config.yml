@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Erandi Chavez"
 description              : &description "Astronomy PhD Student at Harvard University"
 url                      : https://erandichavez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/erandichavez" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "erandichavez/erandichavez"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)

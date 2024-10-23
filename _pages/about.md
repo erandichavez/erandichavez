@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a second year Astronomy graduate student and NSF GRFP fellow at Harvard University. Currently, I work with my advisor [Michael Johnson](http://www.scintillatingastronomy.com/) and the [Event Horizon Telescope](https://eventhorizontelescope.org/) to directly image Supermassive Black Holes with large arrays of radio telescopes. I'm particularly interested in using Radio observations to study Supermassive Black Hole outflows, how they are generated, and how these outflows interact with their surrounding environments from the smallest to the largest scales.
+Hello! I am a third year Astronomy graduate student and NSF GRFP fellow at Harvard University. Currently, I work with my advisor [Michael Johnson](http://www.scintillatingastronomy.com/) and the [Event Horizon Telescope](https://eventhorizontelescope.org/) to directly image Supermassive Black Holes with large arrays of radio telescopes. I'm particularly interested in using Radio observations to study Supermassive Black Hole outflows, how they are generated, and how these outflows interact with their surrounding environments from the smallest to the largest scales.
 
 As an undergraduate student at UC Berkeley, I worked on tracking long-term changes in Neptune's atmospheric and cloud activity with [Imke de Pater](https://w.astro.berkeley.edu/~imke/). Check out articles on my work linking Neptune's cloud activity to the solar cycle by [NASA](https://www.nasa.gov/feature/goddard/2023/hubble-neptunes-disappearing-clouds-linked-to-the-solar-cycle) and the [New York Times](https://www.nytimes.com/2023/08/18/science/neptune-clouds-sun.html)!
 
